@@ -202,4 +202,9 @@ Desktop Styles: 769px and greater
       position: relative;
       width: 100%;
    }
+   nav.horizontal::after {
+      clear:both;
+      content: " ";
+      display: table;
+   }
 }
