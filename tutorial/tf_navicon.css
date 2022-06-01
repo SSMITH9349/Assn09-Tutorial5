@@ -5,7 +5,8 @@
    Tutorial 5
    Tutorial Case
    
-   Author:   Sara Smith
+
+   Author:  Sara Smith  
    Date:     6/1/22
    
    Filename: tf_navicon.css
@@ -21,9 +22,14 @@
    ===========
 */
 
+
+
 a#navicon {
    display: none;
 }
+=======
+
+
 
 
 /* ===============================
@@ -32,6 +38,7 @@ a#navicon {
 */
 
 @media only screen and (max-width: 480px) {
+
    a#navicon {
       display: block;
    }
@@ -42,4 +49,8 @@ a#navicon {
    a#navicon:hover+ul, nav.horizontal ul:hover {
       display:block;
    }
+=======
+
+   
+
 }
