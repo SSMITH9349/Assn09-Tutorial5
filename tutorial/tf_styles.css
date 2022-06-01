@@ -207,4 +207,7 @@ Desktop Styles: 769px and greater
       content: " ";
       display: table;
    }
+   nav.horizontal a.submenuTitle {
+      display:none;
+   }
 }
