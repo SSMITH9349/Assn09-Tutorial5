@@ -59,7 +59,11 @@ p{
 
 
 /* List Styles */
+ul {
+   list-syle-type: disc;
+   margin-left:0.5in;
 
+}
 
 
 /* Image Styles */
