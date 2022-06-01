@@ -168,6 +168,13 @@ Mobile Styles: 0px to 480px
 Tablet styles: 481px and greater
 ======================================================================*/
 @media only screen and (min-width: 481px){
+   ul.mainmeu > li{
+      float: left;
+      width: 20%;
+   }
+      
+
+   
 
 }
 /*=====================================================================
