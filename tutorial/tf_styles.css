@@ -163,6 +163,9 @@ Mobile Styles: 0px to 480px
       font-size: 1.5em;
       line-height: 2.2em;
    }
+   aside{
+      display:none;
+   }
 }
 /*======================================================================
 Tablet styles: 481px and greater
